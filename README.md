@@ -1,7 +1,7 @@
 # Machine Learning Work Examples
 
 This is a repository with work examples from school.
-Please see [src]() folder
+Please see [src](https://github.com/jinger12/Machine_Learning_school_work/tree/main/src) folder
 
 The purpose of this is to give prospective employeers an insight concepts and practices I am familiar with.
 
